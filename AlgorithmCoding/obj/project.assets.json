@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\spartan\\AlgorithmCoding\\AlgorithmCoding\\AlgorithmCoding.csproj",
+      "projectUniqueName": "D:\\GitHub\\AlgoritmCoding\\AlgorithmCoding\\AlgorithmCoding.csproj",
       "projectName": "AlgorithmCoding",
-      "projectPath": "D:\\spartan\\AlgorithmCoding\\AlgorithmCoding\\AlgorithmCoding.csproj",
+      "projectPath": "D:\\GitHub\\AlgoritmCoding\\AlgorithmCoding\\AlgorithmCoding.csproj",
       "packagesPath": "C:\\Users\\shg68\\.nuget\\packages\\",
-      "outputPath": "D:\\spartan\\AlgorithmCoding\\AlgorithmCoding\\obj\\",
+      "outputPath": "D:\\GitHub\\AlgoritmCoding\\AlgorithmCoding\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\shg68\\AppData\\Roaming\\NuGet\\NuGet.Config",

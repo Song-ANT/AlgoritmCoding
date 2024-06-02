@@ -1,0 +1,15 @@
+D:\GitHub\AlgoritmCoding\AlgorithmCoding\bin\Debug\net8.0\AlgorithmCoding.exe
+D:\GitHub\AlgoritmCoding\AlgorithmCoding\bin\Debug\net8.0\AlgorithmCoding.deps.json
+D:\GitHub\AlgoritmCoding\AlgorithmCoding\bin\Debug\net8.0\AlgorithmCoding.runtimeconfig.json
+D:\GitHub\AlgoritmCoding\AlgorithmCoding\bin\Debug\net8.0\AlgorithmCoding.dll
+D:\GitHub\AlgoritmCoding\AlgorithmCoding\bin\Debug\net8.0\AlgorithmCoding.pdb
+D:\GitHub\AlgoritmCoding\AlgorithmCoding\obj\Debug\net8.0\AlgorithmCoding.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\AlgoritmCoding\AlgorithmCoding\obj\Debug\net8.0\AlgorithmCoding.AssemblyInfoInputs.cache
+D:\GitHub\AlgoritmCoding\AlgorithmCoding\obj\Debug\net8.0\AlgorithmCoding.AssemblyInfo.cs
+D:\GitHub\AlgoritmCoding\AlgorithmCoding\obj\Debug\net8.0\AlgorithmCoding.csproj.CoreCompileInputs.cache
+D:\GitHub\AlgoritmCoding\AlgorithmCoding\obj\Debug\net8.0\AlgorithmCoding.sourcelink.json
+D:\GitHub\AlgoritmCoding\AlgorithmCoding\obj\Debug\net8.0\AlgorithmCoding.dll
+D:\GitHub\AlgoritmCoding\AlgorithmCoding\obj\Debug\net8.0\refint\AlgorithmCoding.dll
+D:\GitHub\AlgoritmCoding\AlgorithmCoding\obj\Debug\net8.0\AlgorithmCoding.pdb
+D:\GitHub\AlgoritmCoding\AlgorithmCoding\obj\Debug\net8.0\AlgorithmCoding.genruntimeconfig.cache
+D:\GitHub\AlgoritmCoding\AlgorithmCoding\obj\Debug\net8.0\ref\AlgorithmCoding.dll
