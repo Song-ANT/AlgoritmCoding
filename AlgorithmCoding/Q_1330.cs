@@ -43,8 +43,14 @@ namespace AlgorithmCoding
 
         public override void Example()
         {
-            int x = 1;
-            int y = 2;
+            //int x = 1;
+            //int y = 2;
+
+            string input = Console.ReadLine();
+            string[] ex = input.Split(" ");
+            int x = int.Parse(ex[0]);
+            int y = int.Parse(ex[1]);
+
             var result = solution(x, y);
             Console.WriteLine($"\n예 : {x}, {y}");
             Console.WriteLine($"결괏값 : {result}");

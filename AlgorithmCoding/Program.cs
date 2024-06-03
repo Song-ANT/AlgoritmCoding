@@ -32,4 +32,42 @@ namespace AlgorithmCoding
             }
         }
     }
+
 }
+
+
+
+/*
+    using System;
+    using System.Reflection;
+    using System.Linq;
+
+
+    public abstract class KataBase
+    {
+        public abstract void Example();
+    }
+
+
+    // 백준 문제제출용 Main
+    public static class Program
+    {
+        public static void Main()
+        {
+            string problemClassName = Console.ReadLine();
+
+            var testType = Assembly.GetExecutingAssembly().GetTypes()
+                .FirstOrDefault(t => t.IsSubclassOf(typeof(KataBase)) && t.Name == problemClassName);
+
+            if (testType != null)
+            {
+                var instance = Activator.CreateInstance(testType) as KataBase;
+                instance?.Example();
+            }
+            else
+            {
+                Console.WriteLine($"Problem class '{problemClassName}' not found.");
+            }
+        }
+    }
+    */
