@@ -14,7 +14,9 @@ namespace AlgorithmCoding
         public static void Main()
         {
             Console.WriteLine("실행하고자 하는 문제의 Class Name을 적어주세요:");
+            Console.Write("Q_");
             string problemClassName = Console.ReadLine();
+            problemClassName = "Q_" + problemClassName;
 
             var testType = Assembly.GetExecutingAssembly().GetTypes()
                 .FirstOrDefault(t => t.IsSubclassOf(typeof(KataBase)) && t.Name == problemClassName);
