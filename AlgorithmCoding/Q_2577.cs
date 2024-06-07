@@ -63,10 +63,10 @@ namespace AlgorithmCoding
         }
     }
 
-    #region ShotCoding
-    public class Q_2577_ShotCoding
+    #region ShortCoding
+    public class Q_2577_ShortCoding
     {
-        private void ShotCoding()
+        private void ShortCoding()
         {
             int ABC = 1;
             int[] count = new int[10];

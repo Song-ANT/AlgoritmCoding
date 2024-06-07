@@ -49,9 +49,9 @@
     }
 
     #region ShotCoding
-    public class Q_2739_ShotCoding
+    public class Q_2739_ShortCoding
     {
-        public void ShotCoding()
+        public void ShortCoding()
         {
             int N = Console.Read() - 48;
             for (int i = 1; i < 10; i++)

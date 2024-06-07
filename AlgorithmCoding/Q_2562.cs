@@ -79,8 +79,8 @@ namespace AlgorithmCoding
 
     }
 
-    #region StotCoding
-    public class Q_2562_ShotCoding
+    #region StortCoding
+    public class Q_2562_ShortCoding
     {
         private void Solution()
         {
