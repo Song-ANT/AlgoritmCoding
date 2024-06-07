@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AlgorithmCoding")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fa6fb3bf3c670ecfe8dafa6e0d07c3e3d93e308c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+198143f66c43b93107799aa61c74c0bfcdfc4723")]
 [assembly: System.Reflection.AssemblyProductAttribute("AlgorithmCoding")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AlgorithmCoding")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

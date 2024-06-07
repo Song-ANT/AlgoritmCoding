@@ -48,5 +48,4 @@ namespace AlgorithmCoding
             return sum % 10;
         }
     }
-
 }
