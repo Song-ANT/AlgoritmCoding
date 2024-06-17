@@ -95,4 +95,25 @@
             Console.WriteLine(res);
         }
     }
+
+    #region ShortCoding
+    public class Q_3052_ShortCoding
+    {
+        public void ShortCoding()
+        {
+            int[] arr = new int[10];
+            for (int i = 0; i < 10; ++i)
+                arr[i] = int.Parse(Console.ReadLine()) % 42;
+            Console.Write(arr.Distinct().Count());
+        }
+    }
+    #endregion
+
+    #region CPP
+    /*
+     #import<cstdio>
+    int a[42],n,s;
+    main(){while(scanf("%d",&n)>0)a[n%42]=1;for(int n:a)s+=n;printf("%d",s);}
+     */
+    #endregion
 }
